@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到我的主页&center=true&size=27"> </a> </h1>
+# 🙋欢迎来到我的主页
 
 <!--
 **1807962239/1807962239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
