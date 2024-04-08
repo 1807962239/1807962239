@@ -1,4 +1,4 @@
-### Hi there 👋
+### 欢迎来到我的GitHub主页
 
 <!--
 **1807962239/1807962239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=HanMeilin&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HanMeilin&theme=dark&layout=compact)
