@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://metrics.lecoq.io/HanMeilin?template=classic&config.timezone=Asia%2FShanghai"> </div>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=HanMeilin&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HanMeilin&theme=dark&layout=compact)
